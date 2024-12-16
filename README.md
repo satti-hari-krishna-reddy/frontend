@@ -1,16 +1,4 @@
 
-<div align="center">
-  <h1>andrewnelson.net | portfolio</h1>
-  <p></p>
-  <img src="https://img.shields.io/badge/stability-beta-blue.svg" alt="Experimental">
-  <img src="https://vercelbadge.vercel.app/api/atlamors/portfolio-theme" alt="Vercel">
-  <img src="https://therealsujitk-vercel-badge.vercel.app/?app=portfolio-theme-jqe0jhmif-atlamors.vercel.app" alt="Vercel Deployed">
-  <img src="https://img.shields.io/github/license/atlamors/portfolio-theme" alt="Liscence">
-  <br><br>
-</div>
-
-<img src="https://www.andrewnelson.net/img/preview.png">
-
 ## Updates
 #### Dev Update — July 6th, 2023 🥰
 We have relocated to a beautiful home in the suburbs of Langely, BC. There has been a LOT of work unpacking, organizing, and landscaping to get this home perfect for our two toddlers! I am hoping to resume development of the theme in the next couple months!
